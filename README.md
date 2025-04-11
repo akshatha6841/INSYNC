@@ -1,2 +1,3 @@
-# akshatha-r
+# INSYNC
+
 education
