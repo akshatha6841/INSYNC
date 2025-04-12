@@ -1,3 +1,0 @@
-# INSYNC
-
-education
